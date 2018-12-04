@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  margin: 0;
+  padding-top: 50px;
+}
+section {
+  height: 4000px
+}
+header {
+  background: black;
+  height: 100px;
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
